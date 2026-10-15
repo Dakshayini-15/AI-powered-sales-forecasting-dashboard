@@ -1,4 +1,3 @@
-# AI-powered-sales-forecasting-dashboard
 
 # AI-Powered Sales Forecasting Dashboard
 
